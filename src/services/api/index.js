@@ -1,0 +1,1 @@
+export { listCourses as getData, createCourse as addData, updateCourse as editData, deleteCourse as deleteData } from "./courses";
